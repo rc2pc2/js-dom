@@ -1,0 +1,29 @@
+
+
+.red{
+    color: red;
+    background-color: black;
+    font-size: 2rem;
+    text-decoration: dotted;
+}
+
+.yellow{
+    color: gold;
+    background-color: darkolivegreen;
+    font-size: 4rem;
+    text-decoration: dashed;
+}
+
+.green{
+    color: lime;
+    background-color: darkorchid;
+    font-size: 3rem;
+    text-decoration: wavy;
+}
+
+.blue{
+    color: cyan;
+    background-color: darkblue;
+    font-size: 3rem;
+    text-decoration: wavy;
+}
